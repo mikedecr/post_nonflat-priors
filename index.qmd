@@ -22,8 +22,6 @@ knitr:
 # image: "git_featured.png"
 ---
 
-<https://web.archive.org/web/20201004152752/https://mikedecr.github.io/post/nonflat-implications/>
-
 When many researchers first encounter Bayesian methods, they are nervous that their choice of prior distribution will ruin their posterior inferences.
 Estimation under non-Bayesian methods feels "automatic", but Bayesian methods bear this additional risk of bad priors.[^regularization]
 In this new uncertain territory, it initially feels safer to prefer flatter, more diffuse priors in your model.
