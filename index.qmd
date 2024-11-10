@@ -27,7 +27,7 @@ How bad can flat priors be if, in the extreme, you merely get the same answer th
 
 [^regularization]: For academic social scientists, at least, for whom unregularized least-squares or maximum likelihood estimation still dominate.
 Once you begin caring about regularization to prevent overfitting your model to your data, non-Bayesian inference quickly stops being automatic.
-But that's academic for you: the luxury of never actually having to pay your loss function.
+But that's academia for you: the luxury of never actually having to pay your loss function.
 
 This blog post discuss some areas where this reasoning breaks down.
 One, we discuss the fact that if some parameter has a prior, functions of that parameter have their own "implied" priors.
