@@ -4,23 +4,20 @@ categories: [r, statistics, bayes]
 title: |
     Non-flat implications of flat priors
 subtitle: |
-    Functions of parameters have "implied priors"
-# excerpt: |
-#     A blogdown website is more like a combination of modular components that are better managed independently, each component with its own repository.
-#     These modular components _come together_ at the nexus of the website, but the components do not _belong to_ the website.
+    Functions of parameters have "implied priors", which usually aren't flat
+excerpt: |
+    Different parameterizations naturally expose different parameters, and some parameters are easier to reason about than others.
+    Parameterization affects whether a prior's "flatness" is at all related to a prior's "informativeness".
 date: "2020-06-30"
 format:
     html:
         fig-height: 4
         fig-width: 6
-        # fig-align: center
 knitr:
     opts_chunk:
         collapse: true
         fig.align: center
         cache: true
-# draft: true
-# image: "git_featured.png"
 ---
 
 When many researchers first encounter Bayesian methods, they are nervous that their choice of prior distribution will ruin their posterior inferences.
