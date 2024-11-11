@@ -1,0 +1,17 @@
+name: nonflat-priors
+channels:
+  - conda-forge
+  - r
+  - nodefaults
+
+dependencies:
+  - r-base == 4.2.3
+  - radian == 0.6.12
+  - python >= 3.10
+  - ipython
+  - quarto == 1.5.57
+  - r-rmarkdown == 2.27
+  - r-tidyverse
+  - r-latex2exp
+  - r-codetools
+
