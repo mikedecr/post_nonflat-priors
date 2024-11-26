@@ -9,10 +9,6 @@ excerpt: |
     Different parameterizations naturally expose different parameters, and some parameters are easier to reason about than others.
     Parameterization affects whether a prior's "flatness" is at all related to a prior's "informativeness".
 date: "2020-06-30"
-format:
-    html:
-        fig-height: 4
-        fig-width: 6
 knitr:
     opts_chunk:
         collapse: true
