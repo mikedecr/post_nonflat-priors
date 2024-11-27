@@ -90,6 +90,8 @@ sigma <- 1 / 2
 mu <- 6
 f <- function(x) { mu + sigma * x }
 
+set.seed(11271004)
+
 d = tibble::tibble(
     theta = rnorm(10000, mean = 0, sd = 1),
     f_theta = f(theta)
