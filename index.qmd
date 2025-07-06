@@ -5,7 +5,7 @@ title: |
     Non-flat implications of flat priors
 subtitle: |
     Functions of parameters have "implied priors", which usually aren't flat
-excerpt: |
+summary: |
     Different parameterizations naturally expose different parameters, and some parameters are easier to reason about than others.
     Parameterization affects whether a prior's "flatness" is at all related to a prior's "informativeness".
 date: "2020-06-30"
